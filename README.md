@@ -21,6 +21,7 @@ Pure HTML, CSS, and Vanilla JS. Zero frameworks. Zero dependencies. One single f
 
 ## Project Structure
 Currently, the project is a single-file application for maximum portability and ease of use.
+
 keysentry/
  └─ keysentry.html   # Contains all HTML, CSS, and JS
 
